@@ -1,0 +1,37 @@
+/* Text Elements */
+
+h1.text1 {
+  position: relative;
+  right: -20px;
+}
+
+/* Interaction Elements */
+
+a.link-button.button {
+  position: relative;
+  right: -50px;
+  bottom: -47px;
+  display: inline;
+  float: none;
+}
+
+a.link-button.but2.button {
+  right: -222px;
+  bottom: -200px;
+}
+
+a.link-button.but3.button {
+  right: 20px;
+  bottom: -200px;
+}
+
+input[type=password].pass {
+  position: relative;
+  right: 8px;
+  bottom: -337px;
+}
+
+.rule.R1 {
+  position: relative;
+  bottom: -144px;
+}
