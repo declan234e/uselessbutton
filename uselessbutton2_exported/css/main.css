@@ -1,4 +1,34 @@
+/* Interaction Elements */
+
+a.link-button.button {
+  position: relative;
+  bottom: -28px;
+}
+
 div.responsive-picture.pic1 {
   min-height: 0;
   width: 94.5%;
+}
+
+@media screen and (min-width: 40rem) {
+  /* Text Elements */
+
+  p.paragraph.text400 {
+    position: relative;
+    bottom: -568px;
+    display: block;
+    text-align: center;
+    -webkit-column-span: none;
+       -moz-column-span: none;
+            column-span: none;
+    -webkit-column-width: auto;
+       -moz-column-width: auto;
+            column-width: auto;
+  }
+
+  /* Layout Elements */
+
+  body.url {
+    top: 0;
+  }
 }
