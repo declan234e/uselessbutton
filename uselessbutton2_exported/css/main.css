@@ -32,3 +32,12 @@ div.responsive-picture.pic1 {
     top: 0;
   }
 }
+
+@media screen and (min-width: 64rem) {
+  /* Text Elements */
+
+  p.paragraph.text400 {
+    width: auto;
+    text-align: center;
+  }
+}
