@@ -11,21 +11,6 @@ div.responsive-picture.pic1 {
 }
 
 @media screen and (min-width: 40rem) {
-  /* Text Elements */
-
-  p.paragraph.text400 {
-    position: relative;
-    bottom: -568px;
-    display: block;
-    text-align: center;
-    -webkit-column-span: none;
-       -moz-column-span: none;
-            column-span: none;
-    -webkit-column-width: auto;
-       -moz-column-width: auto;
-            column-width: auto;
-  }
-
   /* Layout Elements */
 
   body.url {
@@ -36,8 +21,20 @@ div.responsive-picture.pic1 {
 @media screen and (min-width: 64rem) {
   /* Text Elements */
 
-  p.paragraph.text400 {
-    width: auto;
+  p.paragraph.paragraph-1 {
+    display: block;
+  }
+
+  p.paragraph.paragraph-1.text12 {
+    position: static;
+    display: block;
     text-align: center;
+  }
+
+  /* Interaction Elements */
+
+  a.link-button.but20032.button {
+    right: -528px;
+    bottom: -53px;
   }
 }
