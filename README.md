@@ -3,7 +3,7 @@ this is the files for useless button
 
 uselessbuttonRD is the latest resese for https://www.uselessbutton.ga
 
-uselessbutton2 is https://gamer234e.ga
+uselessbutton2 is https://gamer234e.gq
 
 uselessbutton beta test_exported is the beta build this will be a bit broken
 
